@@ -31,4 +31,5 @@ Social scientists with basic understanding of computer programming
 
 ## Organizers
 Fakhri Momeni, Felix Victor Münch, Chung-hong Chan, M. Taimoor Khan
+
 GESIS - Leibniz Institute for the Social Sciences
