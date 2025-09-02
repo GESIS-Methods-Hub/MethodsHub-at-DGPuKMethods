@@ -31,7 +31,7 @@ Sept. 12, 2025 (13:00–14:30) — [MethodsNET 2025 schedule](https://docs.googl
 
 ## Target audience / expected background
 
-Social scientists with a basic understanding of computer programming.
+Social scientists with a basic understanding of computer programming (preferrably in Python and/or R).
 
 ## Acknowledgements
 
