@@ -10,7 +10,7 @@ Throughout the activity, the Methods Hub team will provide facilitation, technic
 
 ## Schedule
 
-Sept. 12, 2025 (13:00–14:30) — [MethodsNET 2025 schedule](https://docs.google.com/spreadsheets/d/1Oa34e-MWuVcf476TYvhONMu5Ex9_odzWtC07bwC3mpQ/edit?gid=907252685#gid=907252685)
+Sept. 12, 2025 (8:30–10:00) — [MethodsNET 2025 schedule](https://docs.google.com/spreadsheets/d/1Oa34e-MWuVcf476TYvhONMu5Ex9_odzWtC07bwC3mpQ/edit?gid=907252685#gid=907252685)
 
 ## Session Structure
 
