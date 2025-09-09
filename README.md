@@ -25,8 +25,10 @@ Sept. 12, 2025 (8:30–10:00) — [MethodsNET 2025 schedule](https://docs.google
   - **Task 1**: Search for/find a suitable method for the use case
   - **Task 2**: Interactively execute the method and explore results
   - Share feedback via the [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSeppYcwE668muaDwK2wA9uDQaKFoUfqOJ-_1FVw1iTyu7eK3w/viewform?usp=sharing&ouid=100798639570929836211)
-- Discussion/feedback — Felix [15 min]
+- User Feedback for Future Development (Felix Victor Münch) [15 min]
   - Pains, gains, and feature ideas (based on the [Value Proposition Canvas](https://www.strategyzer.com/library/the-value-proposition-canvas))
+    - [Example Canvas](https://prezi.com/view/3QzN3xfXnjE2pEwn6QsF/)
+    - [Whiteboard for this session](https://miro.com/welcomeonboard/RzF3SGZVSWFHTmFKeFk0MUJaSDF4SmpzMkN3ZVc0cHhaNnNwODFiV0hSVFFBOTR0Sm13SnpsUlJocnhDdFNJYXlwNGV5YnRFV2gwMElxemlUK2RhQ3VsOGI0eEdqd2ZUdXI3alVCazhIZ1d0UXpRYkhlK3ZNOElZdkdDamF2eVZBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE=?share_link_id=171923387021)
   
 
 ## Target audience / expected background
