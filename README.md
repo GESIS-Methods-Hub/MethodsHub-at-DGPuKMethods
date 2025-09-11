@@ -28,7 +28,7 @@ Sept. 12, 2025 (8:30–10:00) — [MethodsNET 2025 schedule](https://docs.google
 - User Feedback for Future Development (Felix Victor Münch) [15 min]
   - Pains, gains, and feature ideas (based on the [Value Proposition Canvas](https://www.strategyzer.com/library/the-value-proposition-canvas))
     - [Example Canvas](https://prezi.com/view/3QzN3xfXnjE2pEwn6QsF/)
-    - [Canvas for this session](https://miro.com/app/board/uXjVJK0Fvv8=/?share_link_id=857133899285)
+    - [Canvas for this session](https://miro.com/app/board/uXjVJK0Fvv8=/?share_link_id=857133899285) (https://tinyurl.com/methodshubvpc)
   
 
 ## Target audience / expected background
