@@ -14,6 +14,8 @@ Sept. 12, 2025 (8:30–10:00) — [MethodsNET 2025 schedule](https://docs.google
 
 ## Session Structure
 
+Short link to this repo: https://tinyurl.com/methodshubnet
+
 - Introduction to the Methods Hub (Fakhri Momeni) [10 min]
 - Computational reproducibility (Chung-hong Chan) [7 min]
 - Concurrent tasks (2–3 groups) [50 min]
