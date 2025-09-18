@@ -2,6 +2,8 @@
 
 Hands-on session on the [Methods Hub](https://methodshub.gesis.org/) at [DGPuK Methoden25](https://www.ostfalia.de/hochschule/fakultaeten/fakultaet-verkehr-sport-tourismus-medien/institute/institut-fuer-oeffentliche-kommunikation/methoden25).
 
+Short URL: https://tinyurl.com/dgpukhub
+
 ## Abstract
 
 The Methods Hub is an open-access platform designed to help social science researchers discover, access, understand, and apply computational methods. This session introduces the Methods Hub as a portal for computational methods and demonstrates its core functionalities, guiding participants through finding suitable methods, accessing them, and understanding their purpose. The session also highlights the utility of tutorials that serve as step-by-step guides for applying a method to a concrete task. In the interactive portion, participants will select from predefined use-case scenarios and corresponding tasks based on their interests. Participants will be grouped by the selected scenario and collaboratively explore relevant methods on the Methods Hub. They will be encouraged to discuss methodological options, make informed decisions, and carry out the assigned task using the available resources.
